@@ -19,7 +19,7 @@ npm install @hoth/cli --global
 
 ### Quick start
 
-Create a project:
+Create a project
 
 ```sh
 hoth generate myproj
